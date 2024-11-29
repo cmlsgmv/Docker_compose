@@ -4,3 +4,6 @@
 [submodule "NATS"]
 	path = NATS
 	url = https://github.com/cmlsgmv/NATS.git
+[submodule "Enrichment"]
+	path = Enrichment
+	url = https://github.com/cmlsgmv/Enrichment.git
