@@ -1,3 +1,6 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://github.com/cmlsgmv/Vector.git
+[submodule "NATS"]
+	path = NATS
+	url = https://github.com/cmlsgmv/NATS.git
