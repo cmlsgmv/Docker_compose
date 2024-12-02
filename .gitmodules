@@ -7,3 +7,6 @@
 [submodule "Enrichment"]
 	path = Enrichment
 	url = https://github.com/cmlsgmv/Enrichment.git
+[submodule "Anomaly_detectors"]
+	path = Anomaly_detectors
+	url = https://github.com/cmlsgmv/Anomaly_detectors.git
