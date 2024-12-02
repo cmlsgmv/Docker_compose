@@ -10,3 +10,6 @@
 [submodule "Anomaly_detectors"]
 	path = Anomaly_detectors
 	url = https://github.com/cmlsgmv/Anomaly_detectors.git
+[submodule "Wazuh"]
+	path = Wazuh
+	url = https://github.com/cmlsgmv/Wazuh.git
